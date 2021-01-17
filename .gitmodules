@@ -1,0 +1,3 @@
+[submodule "kozos-build-server"]
+	path = kozos-build-server
+	url = https://github.com/morinokami/kozos-build-server
