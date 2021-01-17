@@ -23,3 +23,6 @@ ttyUSB0
 ```
 $ sudo apt install gtkterm
 ```
+
+# H8/3069F Manual
+https://akizukidenshi.com/download/ds/renesas/hd64f3069r.pdf
